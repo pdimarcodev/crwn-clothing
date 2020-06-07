@@ -35,7 +35,8 @@ class App extends React.Component {
          }
         }
         )
-        // see user: console.log(this.state);
+        // see user: 
+        console.log(this.state);
         
       })
     } else {
